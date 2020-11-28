@@ -21,7 +21,17 @@
 
 ## 👦 About me
 
-22 years old + Data engineer at [ippon](https://fr.ippon.tech/) + 💛 Scala + 🇫🇷🇵🇹
+```scala
+final case class Human(name: String, age: Int, job: String, hobby: String, nationality: String)
+
+val dylan = Human(
+  name = "Dylan DO AMARAL",
+  age = 22,
+  job = "Data engineer at Ippon Technologies",
+  hobby = "💛 Scala",
+  nationality = "🇫🇷🇵🇹"
+)
+```
 
 ## 🧰 My tech stack
 
