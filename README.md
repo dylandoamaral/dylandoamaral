@@ -2,14 +2,20 @@
 <h1 align="center">Hi, I'm Dylan 🦉👋, nice to meet you !</h1>
 
 <p align="center">
+  <a href="https://github.com/dylandoamaral">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dylandoamaral&theme=yeblu&show_icons=true" />
+  </a>
+</P>
+
+<p align="center">
   <a href="https://www.dylan.doamaral.dev/">
-    <img src="http://img.shields.io/badge/website-www.dylan.doamaral.dev-green?style=flat&logo=ulule&labelColor=333333&logoColor=green" />
+    <img src="http://img.shields.io/badge/website-www.dylan.doamaral.dev-d6db0b?style=flat&logo=ulule&labelColor=002046&logoColor=d6db0b" />
   </a>
   <a href="https://twitter.com/dylandmrl">
-    <img src="http://img.shields.io/badge/twitter-Dylan%20Do%20Amaral-green?style=flat&logo=twitter&labelColor=333333&logoColor=green" />
+    <img src="http://img.shields.io/badge/twitter-Dylan%20Do%20Amaral-d6db0b?style=flat&logo=twitter&labelColor=002046&logoColor=d6db0b" />
   </a>
   <a href="https://www.linkedin.com/in/dylandoamaral/">
-    <img src="http://img.shields.io/badge/linkedin-Dylan%20Do%20Amaral-green?style=flat&logo=linkedin&labelColor=333333&logoColor=green" />
+    <img src="http://img.shields.io/badge/linkedin-Dylan%20Do%20Amaral-d6db0b?style=flat&logo=linkedin&labelColor=002046&logoColor=d6db0b" />
   </a>
 </p>
 
