@@ -26,7 +26,7 @@ final case class Human(name: String, age: Int, job: String, hobby: String, natio
 
 val dylan = Human(
   name = "Dylan DO AMARAL",
-  age = 22,
+  age = 23,
   job = "Data engineer at Ippon Technologies",
   hobby = "💛 Scala",
   nationality = "🇫🇷🇵🇹"
