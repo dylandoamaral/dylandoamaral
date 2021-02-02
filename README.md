@@ -51,4 +51,4 @@ My future goals for 2020/2021:
 - [ ] Contribute to an open source project
 - [ ] Obtain one ⭐ into one of my github project
 - [ ] Stonks in Scala 
-- [ ] Make a connected plant named veggie 🌱
+- [X] Make a connected plant named veggie 🌱
