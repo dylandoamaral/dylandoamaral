@@ -49,6 +49,6 @@ My future goals for 2020/2021:
 - [x] Create my own zio library 👉 [zinteract](https://github.com/dylandoamaral/zinteract)
 - [ ] Obtain my AWS Certified Solutions Architect certification
 - [ ] Contribute to an open source project
-- [ ] Obtain one ⭐ into one of my github project
+- [X] Obtain one ⭐ into one of my github project 👉 [taskwarrior-sky-fedora](https://github.com/dylandoamaral/taskwarrior-sky-fedora)
 - [ ] Stonks in Scala 
 - [X] Make a connected plant named veggie 🌱
