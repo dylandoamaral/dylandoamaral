@@ -47,7 +47,7 @@ My future goals for 2020/2021:
 
 - [x] Create my github readme
 - [x] Create my own zio library 👉 [zinteract](https://github.com/dylandoamaral/zinteract)
-- [ ] Obtain my AWS Certified Solutions Architect certification
+- [X] Obtain my AWS Certified Solutions Architect certification 👉 22/02/2021
 - [ ] Contribute to an open source project
 - [X] Obtain one ⭐ into one of my github project 👉 [taskwarrior-sky-fedora](https://github.com/dylandoamaral/taskwarrior-sky-fedora)
 - [ ] Stonks in Scala 
