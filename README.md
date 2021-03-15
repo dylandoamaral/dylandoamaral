@@ -3,19 +3,20 @@
 
 <p align="center">
   <a href="https://github.com/dylandoamaral">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dylandoamaral&theme=yeblu&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dylandoamaral&theme=vue&show_icons=true" />
   </a>
 </P>
 
 <p align="center">
   <a href="https://www.dylan.doamaral.dev/">
-    <img src="http://img.shields.io/badge/website-www.dylan.doamaral.dev-d6db0b?style=flat&logo=ulule&labelColor=002046&logoColor=d6db0b" />
+    <img src="https://raw.githubusercontent.com/dylandoamaral/dylandoamaral/master/images/dylan.png" width="40px" height="40px"/>
   </a>
+
   <a href="https://twitter.com/dylandmrl">
-    <img src="http://img.shields.io/badge/twitter-Dylan%20Do%20Amaral-d6db0b?style=flat&logo=twitter&labelColor=002046&logoColor=d6db0b" />
+    <img src="https://raw.githubusercontent.com/dylandoamaral/dylandoamaral/master/images/twitter.png" width="40px" height="40px"/>
   </a>
   <a href="https://www.linkedin.com/in/dylandoamaral/">
-    <img src="http://img.shields.io/badge/linkedin-Dylan%20Do%20Amaral-d6db0b?style=flat&logo=linkedin&labelColor=002046&logoColor=d6db0b" />
+    <img src="https://raw.githubusercontent.com/dylandoamaral/dylandoamaral/master/images/linkedin.png" width="40px" height="40px"/>
   </a>
 </p>
 
@@ -39,7 +40,7 @@ val dylan = Human(
 - 🗄️ influxDB | postgreSQL | dynamoDB
 - ☁️ AWS
 - 🧸 confluence | jira | slack
-- 💻 fedora
+- 💻 fedora | home assistant
 
 ## 🎯 My goals
 
