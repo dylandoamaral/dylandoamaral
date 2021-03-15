@@ -9,14 +9,14 @@
 
 <p align="center">
   <a href="https://www.dylan.doamaral.dev/">
-    <img src="https://raw.githubusercontent.com/dylandoamaral/dylandoamaral/master/images/dylan.png" width="40px" height="40px"/>
+    <img src="https://raw.githubusercontent.com/dylandoamaral/dylandoamaral/master/images/dylan.png" width="60px" height="60px"/>
   </a>
 
   <a href="https://twitter.com/dylandmrl">
-    <img src="https://raw.githubusercontent.com/dylandoamaral/dylandoamaral/master/images/twitter.png" width="40px" height="40px"/>
+    <img src="https://raw.githubusercontent.com/dylandoamaral/dylandoamaral/master/images/twitter.png" width="60px" height="60px"/>
   </a>
   <a href="https://www.linkedin.com/in/dylandoamaral/">
-    <img src="https://raw.githubusercontent.com/dylandoamaral/dylandoamaral/master/images/linkedin.png" width="40px" height="40px"/>
+    <img src="https://raw.githubusercontent.com/dylandoamaral/dylandoamaral/master/images/linkedin.png" width="60px" height="60px"/>
   </a>
 </p>
 
