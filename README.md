@@ -27,8 +27,8 @@ final case class Human(name: String, age: Int, job: String, hobby: String, natio
 
 val dylan = Human(
   name = "Dylan DO AMARAL",
-  age = 23,
-  job = "Data engineer at Ippon Technologies",
+  age = 24,
+  job = "Data engineer at Univalence",
   hobby = "💛 Scala",
   nationality = "🇫🇷🇵🇹"
 )
@@ -42,14 +42,3 @@ val dylan = Human(
 - 🧸 confluence | jira | slack
 - 💻 fedora | home assistant
 
-## 🎯 My goals
-
-My future goals for 2020/2021:
-
-- [x] Create my github readme
-- [x] Create my own zio library 👉 [zinteract](https://github.com/dylandoamaral/zinteract)
-- [X] Obtain my AWS Certified Solutions Architect certification 👉 22/02/2021
-- [x] Contribute to an open source project 👉 [flix](https://github.com/flix/flix)
-- [X] Obtain one ⭐ into one of my github project 👉 [taskwarrior-sky-fedora](https://github.com/dylandoamaral/taskwarrior-sky-fedora)
-- [ ] Stonks in Scala 
-- [X] Make a connected plant named veggie 🌱
