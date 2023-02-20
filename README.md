@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Dylan 🦉👋, nice to meet you !</h1>
 
 <p align="center">
@@ -27,8 +26,8 @@ final case class Human(name: String, age: Int, job: String, hobby: String, natio
 
 val dylan = Human(
   name = "Dylan DO AMARAL",
-  age = 24,
-  job = "Data engineer at Univalence",
+  age = 25,
+  job = "Data engineer",
   hobby = "💛 Scala",
   nationality = "🇫🇷🇵🇹"
 )
@@ -38,7 +37,5 @@ val dylan = Human(
 
 - 🗣️ scala | python | javascript
 - 🗄️ influxDB | postgreSQL | dynamoDB
-- ☁️ AWS
-- 🧸 confluence | jira | slack
-- 💻 fedora | home assistant
-
+- ☁️ AWS | self hosted
+- 💻 apple | raspberry pi
