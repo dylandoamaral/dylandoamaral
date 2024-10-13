@@ -18,24 +18,3 @@
     <img src="https://raw.githubusercontent.com/dylandoamaral/dylandoamaral/master/images/linkedin.png" width="60px" height="60px"/>
   </a>
 </p>
-
-## 👦 About me
-
-```scala
-final case class Human(name: String, age: Int, job: String, hobby: String, nationality: String)
-
-val dylan = Human(
-  name = "Dylan DO AMARAL",
-  age = 25,
-  job = "Data engineer",
-  hobby = "💛 Scala",
-  nationality = "🇫🇷🇵🇹"
-)
-```
-
-## 🧰 My tech stack
-
-- 🗣️ scala | python | javascript
-- 🗄️ influxDB | postgreSQL | dynamoDB
-- ☁️ AWS | self hosted
-- 💻 apple | raspberry pi
